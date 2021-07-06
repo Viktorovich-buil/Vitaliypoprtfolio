@@ -1,11 +1,11 @@
 export const projects = [
   {
     title: 'Social Network',
-    description: "Социальная сеть. В качестве backend использован внешний сервер. Сайт в стадии доработки.",
+    description: "Социальная сеть. В качестве backend использован внешний сервер. Добавлен TypeScript. Вкладка Chat организована с помощью WebSocket. Упор сделан на функционал. Login: free@samuraijs.com  Password: free",
       image: '/images/Sn1.png',
-      tags: ["JS", 'React', 'REDUX'],
+      tags: ['TypeScript', "JS", 'React', 'REDUX', 'WebSocket'],
     source: 'https://github.com/Viktorovich-buil/SocialNetWork',
-    visit: 'https://viktorovich-buil.github.io/SocialNetWork/',
+    visit: 'https://viktorovich-buil.github.io/32/',
     id: 0,
   },
   {
@@ -34,6 +34,15 @@ export const projects = [
     source: 'https://github.com/Viktorovich-buil/Crypto_List',
     visit: 'http://crypto-list.vercel.app/',
     id: 3,
+  },
+  {
+    title: 'Nautic',
+    description: "Одностраничный интернет-магазин с адаптивной версткой. Подгрузка товаров из JSON. Добавление и удаление товаров из корзины.",
+    image: '/images/Nautic.png',
+    tags: ['JS', 'GULP', 'SCSS'],
+    source: 'https://github.com/Viktorovich-buil/nautica',
+    visit: 'https://nautic.netlify.app/',
+    id: 4,
   },
 ];
 
@@ -76,12 +85,8 @@ export const projects = [
 
 
 
-
-
-
-
 export const TimeLineData = [
-  { year: 2017, text: 'Начальник технического отдела на строительстве стратегических объектов МО', },
+  { year: 2017, text: 'Начальник технического отдела на строительстве крупных объктов', },
   { year: 2018, text: 'Работа на объектах РОСАТОМ. Внедрение производственной системы с использованием Primavera', },
   { year: 2019, text: 'Заместитель генерального директора в частной организации', },
   { year: 2020, text: 'Начало изучения web-разработки', },

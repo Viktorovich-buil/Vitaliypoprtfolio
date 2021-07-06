@@ -19,7 +19,7 @@ const Technologies = () =>  (
                  <ListTitle>Front-End</ListTitle>
                  <listParagraph>
                      Опыт работы с <br/>
-                     React  Next  HTML  CSS
+                     JS TypeScript React  Next  HTML  SCSS
                  </listParagraph>
              </ListContainer>
          </ListItem>
@@ -29,7 +29,7 @@ const Technologies = () =>  (
                  <ListTitle>Back-End</ListTitle>
                  <listParagraph>
                      Опыт работы с <br/>
-                     Node и публичными API
+                     Node, WebSocket и публичными API
 
                  </listParagraph>
              </ListContainer>
@@ -39,7 +39,7 @@ const Technologies = () =>  (
              <ListContainer>
                  <ListTitle>UI/UX</ListTitle>
                  <listParagraph>
-                     В стадии обучения <br/>
+                     Опыт работы с <br/>
                      Figma
 
                  </listParagraph>
