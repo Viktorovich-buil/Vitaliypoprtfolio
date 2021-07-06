@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'TOPLINK',
-    description:"Интернет магазин. В качестве backend использован Commerce.js. Подключен Stripe для выполнения транзакций. Для стилизации использованы компоненты Material-UI",
+    description:"Интернет магазин. В качестве backend использован Commerce.js. Подключен Stripe для выполнения транзакций. Для стилизации использованы компоненты Material-UI. Default cart number 4242 4242 4242 4242 04/24 242 42424",
     image: '/images/Webshop1.png',
     tags: ['JS', 'React', 'Commerce'],
     source: 'https://github.com/Viktorovich-buil/TOPLINK',
