@@ -39,7 +39,7 @@ export const projects = [
     title: 'Nautic',
     description: "Одностраничный интернет-магазин с адаптивной версткой. Подгрузка товаров из JSON. Добавление и удаление товаров из корзины.",
     image: '/images/Nautic.png',
-    tags: ['JS', 'GULP', 'SCSS'],
+    tags: ['JS', 'GULP', 'SCSS', "HTML"],
     source: 'https://github.com/Viktorovich-buil/nautica',
     visit: 'https://nautic.netlify.app/',
     id: 4,
