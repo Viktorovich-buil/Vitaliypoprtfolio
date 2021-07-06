@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'MyMap',
-    description: "Используя Full Stack 'MERN' создано приложение позволяющее создать аккаунт и оставить свою метку на карте мира с описанием. В качестве сервера использован MapBox",
+    description: "Используя Full Stack 'MERN' создано приложение позволяющее создать аккаунт и оставить свою метку на карте мира с описанием. В качестве сервера использован MapBox. Login: Test  Password: 123456",
       image: '/images/Mymap1.png',
       tags: ['JS', 'MongoDB', 'Express', 'React', 'Node'],
     source: 'https://github.com/Viktorovich-buil/MyMap',
