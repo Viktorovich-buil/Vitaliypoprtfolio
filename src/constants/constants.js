@@ -47,7 +47,7 @@ export const projects = [
   {
     title: 'Вектор путешествий',
     description: "Поиск отелей, ресторанов и достопримечательнойстей на Google Maps. Получение списка элементов в зависимости от текущего места на карте. Фильтрация по оценкам и виду досуга.",
-    image: '/images/Travelapp.png',
+    image: '/images/Travelapp2.png',
     tags: ['REACT', 'Google Maps API', 'Material UI', 'RapidAPI'],
     source: 'https://github.com/Viktorovich-buil/travel',
     visit: 'https://traveltripapp.netlify.app',
