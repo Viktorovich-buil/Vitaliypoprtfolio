@@ -45,7 +45,7 @@ export const projects = [
     id: 4,
   },
   {
-    title: 'Вектор путешествий',
+    title: 'Поиск нового',
     description: "Поиск отелей, ресторанов и достопримечательнойстей на Google Maps. Получение списка элементов в зависимости от текущего места на карте. Фильтрация по оценкам и виду досуга.",
     image: '/images/Travelapp2.png',
     tags: ['REACT', 'Google Maps API', 'Material UI', 'RapidAPI'],
